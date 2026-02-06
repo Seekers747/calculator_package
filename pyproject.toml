@@ -9,7 +9,7 @@ description = "A simple calculator package"
 readme = "README.md"
 requires-python = ">=3.7"
 authors = [
-  { name = "Your Name", email = "you@example.com" }
+  { email = "imraan.mohamedhoesein@gmail.com" }
 ]
 license = { text = "MIT" }
 keywords = ["calculator", "math", "arithmetic"]
@@ -20,5 +20,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/calculator_seeker747"
-"Repository" = "https://github.com/yourusername/calculator_seeker747"
+"Homepage" = "https://github.com/Seekers747/calculator_seeker747"
+"Repository" = "https://github.com/Seekers747/calculator_seeker747"
