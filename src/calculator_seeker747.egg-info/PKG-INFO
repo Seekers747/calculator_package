@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: calculator_seeker747
+Version: 0.1.1
+Summary: A simple calculator package
+Author-email: imraan.mohamedhoesein@gmail.com
+License: MIT
+Project-URL: Homepage, https://github.com/Seekers747/calculator_seeker747
+Project-URL: Repository, https://github.com/Seekers747/calculator_seeker747
+Keywords: calculator,math,arithmetic
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Calculator Seekers747
+
+A simple Python calculator package supporting add, subtract, multiply, divide, power, sqrt, and modulus.
